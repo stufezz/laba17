@@ -1,0 +1,5 @@
+# ninja log v6
+5	335	7521796923926711	CMakeFiles/laba17.dir/my_lab.cpp.obj	1bb2ea5bb474de5b
+10	388	7521881171646049	CMakeFiles/laba17.dir/main.cpp.obj	d43ebd02c5ede2ca
+1	212	7527047808614107	build.ninja	91041906009fd362
+389	466	7521881175427521	laba17.exe	992c29364c7cba3f

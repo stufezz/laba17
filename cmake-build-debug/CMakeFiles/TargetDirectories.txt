@@ -1,0 +1,3 @@
+C:/Users/gxbyc/source/laba17/cmake-build-debug/CMakeFiles/laba17.dir
+C:/Users/gxbyc/source/laba17/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gxbyc/source/laba17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
